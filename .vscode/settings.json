@@ -3,6 +3,7 @@
         ".env*": "dotenv",
         "algorithm": "cpp",
         "limits": "cpp",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "stat.h": "c"
     }
 }
