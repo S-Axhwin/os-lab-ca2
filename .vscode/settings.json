@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "unistd.h": "c"
+    }
+}
